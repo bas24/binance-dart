@@ -12,3 +12,4 @@ ios/Runner/GeneratedPluginRegistrant.*
 # user defined
 /playground
 .vscode/launch.json
+.idea/
